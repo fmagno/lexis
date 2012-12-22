@@ -1,2116 +1,1474 @@
 Entrei!
-ELAPSED: 0.00303602218628
+ELAPSED: 0.00120496749878
 ETA BEFORE IF: 1.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.0362520217896
+ELAPSED: 0.0344650745392
 ETA BEFORE IF: 1.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.0697510242462
+ELAPSED: 0.0678799152374
 ETA BEFORE IF: 1.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.103255033493
+ELAPSED: 0.10128903389
 ETA BEFORE IF: 1.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.136700153351
+ELAPSED: 0.134823083878
 ETA BEFORE IF: 1.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.170125007629
+ELAPSED: 0.168294906616
 ETA BEFORE IF: 1.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.203637123108
+ELAPSED: 0.201798915863
 ETA BEFORE IF: 1.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.237022161484
+ELAPSED: 0.235311031342
 ETA BEFORE IF: 1.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.270507097244
+ELAPSED: 0.268747091293
 ETA BEFORE IF: 1.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.30399107933
+ELAPSED: 0.302170038223
 ETA BEFORE IF: 1.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.337452173233
+ELAPSED: 0.335644006729
 ETA BEFORE IF: 1.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.370938062668
+ELAPSED: 0.369076967239
 ETA BEFORE IF: 1.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.404446125031
+ELAPSED: 0.402599096298
 ETA BEFORE IF: 1.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.437838077545
+ELAPSED: 0.436112880707
 ETA BEFORE IF: 1.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.4714012146
+ELAPSED: 0.469516038895
 ETA BEFORE IF: 1.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.504921197891
+ELAPSED: 0.503036022186
 ETA BEFORE IF: 1.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.538331031799
+ELAPSED: 0.536530971527
 ETA BEFORE IF: 1.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.571823120117
+ELAPSED: 0.569951057434
 ETA BEFORE IF: 1.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.60533118248
+ELAPSED: 0.603396892548
 ETA BEFORE IF: 1.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.638744115829
+ELAPSED: 0.636912107468
 ETA BEFORE IF: 1.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.672217130661
+ELAPSED: 0.670387029648
 ETA BEFORE IF: 1.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.705687046051
+ELAPSED: 0.703835964203
 ETA BEFORE IF: 1.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.739161014557
+ELAPSED: 0.737343072891
 ETA BEFORE IF: 1.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.77260518074
+ELAPSED: 0.770786046982
 ETA BEFORE IF: 1.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.806110143661
+ELAPSED: 0.804228067398
 ETA BEFORE IF: 1.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.83952999115
+ELAPSED: 0.837770938873
 ETA BEFORE IF: 1.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.873023033142
+ELAPSED: 0.87123298645
 ETA BEFORE IF: 1.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.906566143036
+ELAPSED: 0.904646873474
 ETA BEFORE IF: 1.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.940024137497
+ELAPSED: 0.938160896301
 ETA BEFORE IF: 1.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.973479032516
+ELAPSED: 0.971591949463
 ETA BEFORE IF: 1.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.00699806213
+ELAPSED: 1.00508904457
 ETA BEFORE IF: 1.0
 name Welcome
 yln -1.0
 eta 1.0
 life 3
-elapsed: 1.00705909729
+elapsed: 1.00514698029
 blowup
 length: 3
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.0333449840546
+ELAPSED: 0.0334379673004
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.0667390823364
+ELAPSED: 0.0668828487396
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.100218057632
+ELAPSED: 0.100289821625
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.133624076843
+ELAPSED: 0.133791923523
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.167092084885
+ELAPSED: 0.167297840118
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.200617074966
+ELAPSED: 0.200736045837
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.233998060226
+ELAPSED: 0.234210968018
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.267476081848
+ELAPSED: 0.26765704155
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.300936937332
+ELAPSED: 0.30116891861
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.334399938583
+ELAPSED: 0.334656000137
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.367944002151
+ELAPSED: 0.368072032928
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.401457071304
+ELAPSED: 0.401552915573
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.434908866882
+ELAPSED: 0.43501996994
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.468326091766
+ELAPSED: 0.468449831009
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.502038955688
+ELAPSED: 0.502152919769
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.535340070724
+ELAPSED: 0.535462856293
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.568783998489
+ELAPSED: 0.568923950195
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.602328062057
+ELAPSED: 0.602311849594
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.635747909546
+ELAPSED: 0.635828018188
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.669228076935
+ELAPSED: 0.669263839722
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.702756881714
+ELAPSED: 0.702744007111
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.736242055893
+ELAPSED: 0.736286878586
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.769649982452
+ELAPSED: 0.769745826721
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.803200006485
+ELAPSED: 0.803223848343
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.836773872375
+ELAPSED: 0.836935997009
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.870169878006
+ELAPSED: 0.870227813721
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.903604984283
+ELAPSED: 0.903654813766
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.93710899353
+ELAPSED: 0.937204837799
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.970546007156
+ELAPSED: 0.970594882965
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.00391387939
+ELAPSED: 1.00407791138
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.0373749733
+ELAPSED: 1.03759098053
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.07080698013
+ELAPSED: 1.07105088234
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.10435795784
+ELAPSED: 1.1044819355
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.13778996468
+ELAPSED: 1.13802504539
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.17138385773
+ELAPSED: 1.17163300514
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.20478987694
+ELAPSED: 1.20494198799
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.23824501038
+ELAPSED: 1.23840904236
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.27180194855
+ELAPSED: 1.27182602882
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.30522704124
+ELAPSED: 1.30526804924
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.33867001534
+ELAPSED: 1.33877897263
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.37212300301
+ELAPSED: 1.37226986885
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.4056699276
+ELAPSED: 1.40573596954
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.43910002708
+ELAPSED: 1.43922686577
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.47256803513
+ELAPSED: 1.47263383865
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.50607395172
+ELAPSED: 1.50612902641
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.53968596458
+ELAPSED: 1.5398080349
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.57304501534
+ELAPSED: 1.57308888435
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.60653090477
+ELAPSED: 1.60651993752
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.63995504379
+ELAPSED: 1.64000797272
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.67342996597
+ELAPSED: 1.67345786095
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.70692300797
+ELAPSED: 1.70688581467
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.74035000801
+ELAPSED: 1.74036383629
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.77379703522
+ELAPSED: 1.77380204201
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.80734086037
+ELAPSED: 1.80724692345
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.84077000618
+ELAPSED: 1.84074902534
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.87438702583
+ELAPSED: 1.87435388565
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.90773200989
+ELAPSED: 1.90758800507
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.94122886658
+ELAPSED: 1.9410238266
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.97475194931
+ELAPSED: 1.9744579792
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 2.00817489624
+ELAPSED: 2.00788283348
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 2.04165196419
+ELAPSED: 2.04145598412
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 2.07515501976
+ELAPSED: 2.07491898537
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 2.10864305496
+ELAPSED: 2.10835790634
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 2.14213204384
+ELAPSED: 2.14182686806
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 2.17561292648
+ELAPSED: 2.17528986931
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 2.20931696892
+ELAPSED: 2.20887804031
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 2.2426378727
+ELAPSED: 2.24214291573
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 2.27608990669
+ELAPSED: 2.27556681633
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 2.30956101418
+ELAPSED: 2.30899691582
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 2.34304499626
+ELAPSED: 2.34249091148
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 2.37653708458
+ELAPSED: 2.37590503693
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 2.41005301476
+ELAPSED: 2.40946292877
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 2.44347596169
+ELAPSED: 2.44284582138
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 2.47697806358
+ELAPSED: 2.47627496719
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 2.5104329586
+ELAPSED: 2.50971102715
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 2.54401397705
+ELAPSED: 2.54342198372
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 2.57737493515
+ELAPSED: 2.57675981522
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 2.61083889008
+ELAPSED: 2.61012887955
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 2.64430403709
+ELAPSED: 2.64358282089
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 2.67776608467
+ELAPSED: 2.67700886726
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 2.71124196053
+ELAPSED: 2.71052885056
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 2.74468994141
+ELAPSED: 2.74403500557
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 2.77820587158
+ELAPSED: 2.77749991417
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 2.8117120266
+ELAPSED: 2.81098389626
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 2.84532094002
+ELAPSED: 2.84452486038
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 2.87896299362
+ELAPSED: 2.87817001343
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 2.91229486465
+ELAPSED: 2.91147685051
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 2.94573497772
+ELAPSED: 2.94493484497
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 2.97921895981
+ELAPSED: 2.97834897041
 ETA BEFORE IF: 3.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 3.0126979351
+ELAPSED: 3.01177096367
 ETA BEFORE IF: 3.0
 name to
 yln -1.0
 eta 3.0
 life 3
-elapsed: 3.01273703575
+elapsed: 3.01180291176
 blowup
 length: 2
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.0333740711212
+ELAPSED: 0.0335121154785
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.0668241977692
+ELAPSED: 0.0669369697571
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.100269079208
+ELAPSED: 0.100327014923
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.133714199066
+ELAPSED: 0.133764982224
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.167228221893
+ELAPSED: 0.167217969894
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.200862169266
+ELAPSED: 0.20086812973
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.234174013138
+ELAPSED: 0.234143972397
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.267599105835
+ELAPSED: 0.267549037933
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.301062107086
+ELAPSED: 0.301020145416
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.334756135941
+ELAPSED: 0.334563016891
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.368098020554
+ELAPSED: 0.367994070053
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.401523113251
+ELAPSED: 0.401469945908
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.43514418602
+ELAPSED: 0.434977054596
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.468627214432
+ELAPSED: 0.468433141708
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.502097129822
+ELAPSED: 0.501878023148
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.535737991333
+ELAPSED: 0.535542011261
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.569077014923
+ELAPSED: 0.568825006485
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.602613210678
+ELAPSED: 0.602195978165
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.636054039001
+ELAPSED: 0.635622024536
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.669573068619
+ELAPSED: 0.66904592514
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.702974081039
+ELAPSED: 0.70255613327
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.736390113831
+ELAPSED: 0.736058950424
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.769851207733
+ELAPSED: 0.769495010376
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.803260087967
+ELAPSED: 0.802973985672
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.836719989777
+ELAPSED: 0.83651804924
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.870468139648
+ELAPSED: 0.870105981827
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.903717041016
+ELAPSED: 0.903450965881
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.937175989151
+ELAPSED: 0.936950922012
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.970606088638
+ELAPSED: 0.970368146896
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.00404000282
+ELAPSED: 1.00382208824
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.03751420975
+ELAPSED: 1.03753113747
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.07101607323
+ELAPSED: 1.0708489418
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.10445213318
+ELAPSED: 1.10430002213
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.13790607452
+ELAPSED: 1.13776111603
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.1714360714
+ELAPSED: 1.17124795914
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.20485806465
+ELAPSED: 1.20485115051
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.23833298683
+ELAPSED: 1.23820209503
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.27188515663
+ELAPSED: 1.27166199684
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.30534601212
+ELAPSED: 1.30508613586
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.33882403374
+ELAPSED: 1.33858799934
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.37234902382
+ELAPSED: 1.37206792831
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.40578508377
+ELAPSED: 1.40559601784
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.43920111656
+ELAPSED: 1.43907308578
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.4727640152
+ELAPSED: 1.47257614136
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.50618720055
+ELAPSED: 1.50599002838
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.53966903687
+ELAPSED: 1.53966093063
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.5733590126
+ELAPSED: 1.57298707962
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.60681509972
+ELAPSED: 1.60638713837
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.64028906822
+ELAPSED: 1.63985800743
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.67379713058
+ELAPSED: 1.6732981205
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.70742416382
+ELAPSED: 1.70674300194
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.74077606201
+ELAPSED: 1.74025511742
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.77421712875
+ELAPSED: 1.7736620903
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.8076300621
+ELAPSED: 1.80710101128
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.84110713005
+ELAPSED: 1.84062600136
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.87459516525
+ELAPSED: 1.87420296669
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.90802502632
+ELAPSED: 1.90755295753
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.94153404236
+ELAPSED: 1.94102597237
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.97501516342
+ELAPSED: 1.97442603111
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 2.00839400291
+ELAPSED: 2.00791311264
 ETA BEFORE IF: 2.0
 name words
 yln -1.0
 eta 2.0
 life 3
-elapsed: 2.00843000412
+elapsed: 2.00794696808
 blowup
 length: 1
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.0334448814392
+ELAPSED: 0.033539056778
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.0671229362488
+ELAPSED: 0.0670630931854
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.100346088409
+ELAPSED: 0.100483179092
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.133769035339
+ELAPSED: 0.133931159973
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.167274951935
+ELAPSED: 0.167363166809
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.200694084167
+ELAPSED: 0.201014995575
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.234215974808
+ELAPSED: 0.234415054321
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.267639875412
+ELAPSED: 0.267826080322
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.301096916199
+ELAPSED: 0.301248073578
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.334573984146
+ELAPSED: 0.334779977798
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.368263959885
+ELAPSED: 0.368383169174
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.401571035385
+ELAPSED: 0.402855157852
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.434980869293
+ELAPSED: 0.436271190643
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.468575954437
+ELAPSED: 0.469721078873
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.501983880997
+ELAPSED: 0.50316619873
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.535484075546
+ELAPSED: 0.536882162094
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.569020986557
+ELAPSED: 0.570186138153
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.602474927902
+ELAPSED: 0.60364317894
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.636039018631
+ELAPSED: 0.637371063232
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.669497966766
+ELAPSED: 0.670667171478
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.702983856201
+ELAPSED: 0.704147100449
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.736315965652
+ELAPSED: 0.737577199936
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.769836902618
+ELAPSED: 0.771041154861
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.803303956985
+ELAPSED: 0.804509162903
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.836804866791
+ELAPSED: 0.838006019592
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.870341062546
+ELAPSED: 0.871626138687
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.903851985931
+ELAPSED: 0.904955148697
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.937268972397
+ELAPSED: 0.938379049301
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 0.970785856247
+ELAPSED: 0.971829175949
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.00418901443
+ELAPSED: 1.00535917282
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.03790402412
+ELAPSED: 1.03895115852
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.0713288784
+ELAPSED: 1.07241511345
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.10468387604
+ELAPSED: 1.10602712631
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.13816404343
+ELAPSED: 1.13923001289
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.17160105705
+ELAPSED: 1.17284202576
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.20502686501
+ELAPSED: 1.2060880661
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.23845291138
+ELAPSED: 1.23951220512
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.27199888229
+ELAPSED: 1.2729241848
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.30545401573
+ELAPSED: 1.30635499954
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.33890390396
+ELAPSED: 1.33982110023
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.37241292
+ELAPSED: 1.37336397171
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.40588903427
+ELAPSED: 1.40687918663
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.43937206268
+ELAPSED: 1.44034910202
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.47308397293
+ELAPSED: 1.47401618958
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.50640201569
+ELAPSED: 1.50734114647
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.53978705406
+ELAPSED: 1.54080414772
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.57333803177
+ELAPSED: 1.57421708107
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.60675597191
+ELAPSED: 1.60769319534
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.64025807381
+ELAPSED: 1.64117908478
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.67379188538
+ELAPSED: 1.67462515831
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.70724201202
+ELAPSED: 1.70823502541
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.74080586433
+ELAPSED: 1.74159598351
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.77424788475
+ELAPSED: 1.77500200272
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.80765199661
+ELAPSED: 1.80854606628
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.84107589722
+ELAPSED: 1.84210920334
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.87461590767
+ELAPSED: 1.87547898293
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.9082839489
+ELAPSED: 1.90910315514
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.94161391258
+ELAPSED: 1.94245004654
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 1.97514295578
+ELAPSED: 1.975867033
 ETA BEFORE IF: 2.0
 Before dynPump
 Before drawPump
 Before waitUntil
 Entrei!
-ELAPSED: 2.00858807564
+ELAPSED: 2.00940918922
 ETA BEFORE IF: 2.0
 name Ninuszu
 yln -3.0
 eta 2.0
 life 3
-elapsed: 2.0086209774
+elapsed: 2.00945210457
 blowup
 length: 0
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
-Before dynPump
-Before drawPump
-Before waitUntil
 Before dynPump
 Before drawPump
 Before waitUntil
