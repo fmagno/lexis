@@ -1,0 +1,11 @@
+:e lexis.py
+:tabnew draw.py
+:tabnew tempo.py
+:tabnew level.py
+:tabnew word.py
+
+:tabnew levels/debug.lex
+:vsp levels/lev1.lex
+:tabnew ide
+:vsp todo.txt
+:tabn

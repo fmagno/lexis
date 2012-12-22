@@ -1,0 +1,6 @@
+# TODO
+
+
+- words.py Line 70:
+    . adding words which were loaded from file map
+
