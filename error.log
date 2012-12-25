@@ -1,8 +1,0 @@
-Traceback (most recent call last):
-  File "lexis.py", line 115, in <module>
-    c = Game()
-  File "lexis.py", line 43, in __init__
-    self.mainLoop()
-  File "lexis.py", line 92, in mainLoop
-    sleep(3)
-KeyboardInterrupt
