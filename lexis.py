@@ -3,9 +3,8 @@
 import sys
 from draw import Screen
 from tempo import Tempo
-#from wdynamics import Dynamics
 from level import Level
-#from wword import Word
+from time import sleep
 
 
 class Game:
@@ -38,7 +37,7 @@ class Game:
         # Load levels
         self.lev = Level()
         #self.curr_lev = self.lev.loadLev('levels/debug.wrd')
-        self.curr_lev = self.lev.loadLev('levels/lev1.lex')
+        self.curr_lev = self.lev.loadLev('levels/rand.lex')
 
         # Main loop...
         self.mainLoop()
@@ -85,6 +84,12 @@ class Game:
                     print "blowup"
                     print "length:", len(self.curr_lev)
                     self.t_w.reset()
+            elif len(self.scr.words) == 0:
+                self.scr.game_over = True
+                self.scr.init_pair(1, self.scr.COLOR_GREEN, self.scr.COLOR_BLACK)
+                self.scr.addstr(11, 15, "Game Over!", self.scr.color_pair(1))
+                self.scr.refresh()
+                sleep(3)
 
             print "Before dynPump"
             # Refresh dynamics
@@ -97,6 +102,7 @@ class Game:
             print "Before waitUntil"
             # Keep FPS value stable...
             self.t.waitUntilMultiple(self.delay)
+
 
 if __name__ == "__main__":
     fd_err = open("error.log", 'w')

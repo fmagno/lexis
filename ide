@@ -4,8 +4,8 @@
 :tabnew level.py
 :tabnew word.py
 
-:tabnew levels/debug.lex
-:vsp levels/lev1.lex
+:tabnew levels/lev1.lex
+:vsp levels/lexgen.py
 :tabnew ide
 :vsp todo.txt
 :tabn

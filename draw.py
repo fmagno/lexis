@@ -14,7 +14,7 @@ class Screen:
         #self.stdscr.notimeout(0)
         # Colors
         curses.resize_term(HEIGHT, WIDTH)
-        #curses.start_color()
+        curses.start_color()
         self.br = str(curses.baudrate())
         noecho()
         cbreak()
@@ -28,6 +28,17 @@ class Screen:
         self.addstr = self.stdscr.addstr
         self.getch = self.stdscr.getch
         self.flushinp = curses.flushinp
+        self.refresh = self.stdscr.refresh
+
+        # Colours
+        self.init_pair = curses.init_pair
+        self.color_pair = curses.color_pair
+        self.COLOR_GREEN = curses.COLOR_GREEN
+        self.COLOR_BLACK = curses.COLOR_BLACK
+
+        # Effects
+        self.A_BLINK = curses.A_BLINK
+        self.A_UNDERLINE = curses.A_UNDERLINE
 
         # List of all words to be drawn
         # words: [[word, x, y, speed], ...]
