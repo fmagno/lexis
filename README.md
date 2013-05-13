@@ -13,4 +13,6 @@ Linux and Python (standard lib)
 Running
 -------
 
-$ python lexis.py
+$ python lexgen.py (generate a new random level)
+
+$ python lexis.py (play the newly generated level)
